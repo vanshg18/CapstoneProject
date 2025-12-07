@@ -150,9 +150,9 @@ Feel free to use, modify, and share.
 
 ## Author
 
-**Yatin Singh**
+**Vansh Goyal**
 IIIT Delhi 
-Contact: yatin23614@iiitd.ac.in
+Contact: vansh23577@iiitd.ac.in
 
 =======
 # Pixelate
